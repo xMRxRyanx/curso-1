@@ -1,17 +1,35 @@
-.cabecalho{
-          background-color:  #424e61;
-          color: white;
-          display: flex; 
-          flex-direction: row;       
-         justify-content: space-between;
-         margin: 24px 0;
+.cabecalho {
+    background-color: #424e61;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 24px 0;
 
 }
-.cabecalho-imagem{
-width: 20%;
+
+.cabecalho-imagem {
+    width: 20%;
 }
 
-.cabecalho-lista-item{
+.cabecalho-lista-item {
     display: inline - block;
     margin: 0 16px;
+}
+
+.escola-imagem {
+    width: 25%;
+}
+
+.ecola {
+    background-image: linear-gradient(#424E61, #4EBFE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+.escola-div-conteudo {
+    width: 35%;
+
 }
