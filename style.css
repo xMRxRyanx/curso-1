@@ -4,11 +4,11 @@
     }
 
     .cabecalho {
-        background-color: #424e61;
+        background-color: #424E61;
         color: white;
         display: flex;
-        flex-direction: row;
-        justify-content: space-between;
+        justify-content: space-around;
+        align-items: center;
         margin: 24px 0;
 
     }
