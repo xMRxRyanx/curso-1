@@ -3,6 +3,11 @@
         padding: 0;
     }
 
+    body {
+        font-family: "Poppins", sans-serif;
+
+    }
+
     .cabecalho {
         background-color: #424E61;
         color: white;
@@ -33,7 +38,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-    
+
     }
 
     .escola-div-conteudo {
