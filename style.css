@@ -48,3 +48,12 @@
     .estudante-imagem {
         width: 120px;
     }
+
+    .estudante-icone {
+        width: 24px;
+
+    }
+
+    .estudante-div {
+        align-items: center;
+    }
