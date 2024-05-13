@@ -67,10 +67,13 @@
         grid-template-columns: 20% 20% 20% 20% 20%;
 
     }
-    .rodape{
+
+    .rodape {
         background-color: black;
     }
-    .rodape-imagem{
-         height: 60px;
+
+    .rodape-imagem {
+        height: 60px;
         padding: 12px 0;
+        text-align: center;
     }
